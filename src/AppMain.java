@@ -2,7 +2,7 @@
 public class AppMain {
 
 	/**
-	 * Método principal
+	 * Metodo principal
 	 * 
 	 * @param args
 	 */
@@ -11,6 +11,7 @@ public class AppMain {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola mundo");
+		System.out.println("Version 3");
 		
 	}
 
